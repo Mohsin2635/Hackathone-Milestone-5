@@ -234,11 +234,21 @@ p {
   }
   .left-side-bar {
     width: 100%;
+    height: 100%;
+    padding-bottom: 20px;
   }
   .right-side-bar {
     width: 100%;
     border: none;
+    padding-bottom: 20px;
+
   }
+  .About,
+  .education,
+  .experience {
+    margin-left: 10px;
+  }
+
   .button {
     text-align: center;
     margin-left: 0;
